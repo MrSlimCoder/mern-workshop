@@ -1,0 +1,52 @@
+body {
+    text-align: center;
+    background-color: lightgray;
+}
+header {
+    background-color: rgba(0,0,0,0.1);
+}
+header span a { 
+    text-decoration: none;
+    padding-left: 20px;
+}
+header span a:hover {
+    color: black;
+}
+section article {
+    background-color: rgba(0,0,0,0.1);
+}
+footer p span {
+    font-weight: bold;
+}
+footer p span:hover {
+    font-family: 'Trebuchet MS';
+    font-size: 20px;
+}
+/* div {
+    width: 100px;
+    height: 100px;
+    background: red;
+    transition: width 6s;
+  }
+  
+div:hover {
+    width: 700px;
+} */
+
+/* div {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    animation-name: example;
+    animation-duration: 8s;
+  }
+  
+@keyframes example {
+    from {background-color: red;}
+    to {background-color: yellow;}
+} */
+
+/* .myClass {
+
+}
+#myId {} */
